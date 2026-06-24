@@ -6,7 +6,7 @@ AI-Powered Fire Detection System using MobileNetV2 and Streamlit.
 
 FireGuard AI is a computer vision project that detects the presence of fire in images using Deep Learning and Transfer Learning techniques. The model is built on MobileNetV2 and deployed through a Streamlit web application, allowing users to upload images and receive instant predictions.
 
-## 🚀 Features
+##   Features
 
 * Fire / Non-Fire Image Classification
 * Transfer Learning with MobileNetV2
@@ -59,7 +59,7 @@ Run the application:
 streamlit run app.py
 ```
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 The project uses MobileNetV2 as a pre-trained backbone for feature extraction.
 
