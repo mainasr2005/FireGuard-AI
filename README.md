@@ -1,4 +1,4 @@
-# 🔥 FireGuard AI
+#   FireGuard AI
 
 AI-Powered Fire Detection System using MobileNetV2 and Streamlit.
 
