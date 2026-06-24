@@ -26,16 +26,6 @@ FireGuard AI is a computer vision project that detects the presence of fire in i
 * Matplotlib
 * Scikit-Learn
 
-## 📂 Project Structure
-
-```text
-FireGuard-AI/
-│
-├── app.py
-├── fire_detection_model.keras
-├── requirements.txt
-├── README.md
-└── dataset/
 ```
 
 ## ⚙️ Installation
